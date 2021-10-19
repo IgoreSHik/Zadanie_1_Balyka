@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Zadanie 1 Balyka</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Falsz</string>
+    <string name="button_next">Nastepne</string>
+    <string name="q_platypus">Dziobak ma trujące łapy</string>
+    <string name="q_ctOS">ctOS pojawia się w serii Assassin\'s Creed</string>
+    <string name="q_totoro">Totoro to ptak z Final Fantasy</string>
+    <string name="q_patronus">"Expecto Patronum" oznacza "Czekam na opiekuna"</string>
+    <string name="q_fortnite">Fortnite Battle Royale byl stworzony za miesiąc</string>
+    <string name="correct_answer">Prawidlowo</string>
+    <string name="incorrect_answer">Nie prawidlowo</string>
+</resources>

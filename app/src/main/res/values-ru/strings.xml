@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zadanie 1 Balyka</string>
+    <string name="button_true">Правда</string>
+    <string name="button_false">Ложь</string>
+    <string name="button_next">Следующий</string>
+    <string name="q_platypus">Лапы утконоса ядовиты</string>
+    <string name="q_ctOS">ctOS появляется в серии Assassin\'s Creed</string>
+    <string name="q_totoro">Тоторо это птица из Final Fantasy</string>
+    <string name="q_patronus">Expecto Patronum означает Ждать адвоката</string>
+    <string name="q_fortnite">Fortnite Battle Royale был сделан за месяц</string>
+    <string name="correct_answer">Верно</string>
+    <string name="incorrect_answer">Не верно</string>
+</resources>
