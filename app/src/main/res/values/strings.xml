@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Zadanie 1 Balyka</string>
+    <string name="app_name">Zadanie 1 Balyka</string>
     <string name="button_true">Prawda</string>
     <string name="button_false">Falsz</string>
     <string name="button_next">Nastepne</string>
@@ -10,4 +10,10 @@
     <string name="q_fortnite">Fortnite Battle Royale byl stworzony za miesiąc</string>
     <string name="correct_answer">Prawidlowo</string>
     <string name="incorrect_answer">Nie prawidlowo</string>
+    <string name="answer_was_shown">Oszukuesz! Odpowiedz byla juz wyswietliona.</string>
+    <string name="title_activity_hint">Podpowiedz</string>
+    <string name="hint_button">Podpowiedz</string>
+    <string name="are_you_sure">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="show">Pokaż odpowiedź</string>
+    <string name="answer">Odpowiedz</string>
 </resources>
